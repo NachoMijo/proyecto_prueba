@@ -13,7 +13,7 @@ app.get("/login", function (req, res) {
   res.send("Nachete la DEA te busca");   
 });
 
-// algoPRRR
+// algoPRR
 app.get("/", function (req, res) {
   res.send("Nachete");   
 });
